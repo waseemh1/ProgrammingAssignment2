@@ -14,7 +14,7 @@ of an R object.
 
 ### Example: Caching the Mean of a Vector
 
-In this example we introduce the `<<-` operator which can be used to
+In this example we introduce the `<<-`operator which can be used to
 assign a value to an object in an environment that is different from the
 current environment. Below are two functions that are used to create a
 special object that stores a numeric vector and caches its mean.
